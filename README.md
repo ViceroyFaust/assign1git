@@ -3,4 +3,4 @@ My name is Danylo Rybchynskyi, I need to introduce myself for this assignment to
 
 "First comment"
 
-"new git branch on GitHub"
+"new git branch on GitHub: I do it properly this time"
